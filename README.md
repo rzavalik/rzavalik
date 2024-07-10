@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" style="border-radius: 50%;" alt="Rodrigo Zavalik Castro" src="https://2.gravatar.com/avatar/a78fb858825ff54aacf5368296e3163a234fcd5352d7ee57da85398a68bcd41a?size=256"  />
+  <img height="50" alt="Rodrigo Zavalik Castro (Gravatar)" src="https://gravatar.com/zavalik.qr?version=3" />
 </div>
 
 ###
