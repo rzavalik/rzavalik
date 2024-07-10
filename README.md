@@ -1,19 +1,6 @@
-<div align="center">
-  <img height="150" style="border-radius: 50%;" alt="Rodrigo Zavalik Castro" src="https://2.gravatar.com/avatar/a78fb858825ff54aacf5368296e3163a234fcd5352d7ee57da85398a68bcd41a?size=256"  />
-  <img height="150" alt="Rodrigo Zavalik Castro (Gravatar)" src="https://gravatar.com/zavalik.qr?version=3" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/zavalik/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">
+  <center><img height="435" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&height=435&lines=hey+there+%F0%9F%91%8B" alt="Hey there" /></center>
+</h1>
 
 ###
 
@@ -49,9 +36,9 @@ In addition to my practical achievements, I hold Microsoft certifications in C# 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="Powershell"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure"  />
   <img width="12" />
@@ -62,4 +49,19 @@ In addition to my practical achievements, I hold Microsoft certifications in C# 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker"  />
+</div>
+
+###
+
+<h3 align="left">🥰 Social Networks</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/zavalik/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"  />
+  </a>
+  <a href="https://x.com/zavalik/">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"  />
+  </a>
 </div>
