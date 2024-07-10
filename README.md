@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="150" alt="Rodrigo Zavalik Castro" src="https://2.gravatar.com/avatar/a78fb858825ff54aacf5368296e3163a234fcd5352d7ee57da85398a68bcd41a?size=256"  />
+  <img height="150" style="border-radius: 50%;" alt="Rodrigo Zavalik Castro" src="https://2.gravatar.com/avatar/a78fb858825ff54aacf5368296e3163a234fcd5352d7ee57da85398a68bcd41a?size=256"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zavalik/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="25" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin logo"  />
   </a>
 </div>
 
