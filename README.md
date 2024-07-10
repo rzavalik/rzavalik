@@ -1,11 +1,13 @@
 <div align="center">
-  <img height="150" alt="Rodrigo Zavalik Castro" src="[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://gravatar.com/avatar/52a8dbdfde0f42974c4403734fac5d68?size=256&cache=1720632158323)"  />
+  <img height="150" alt="Rodrigo Zavalik Castro" src="https://2.gravatar.com/avatar/a78fb858825ff54aacf5368296e3163a234fcd5352d7ee57da85398a68bcd41a?size=256"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/zavalik/" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/zavalik/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
