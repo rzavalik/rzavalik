@@ -9,22 +9,25 @@
 ###
 
 <p align="left">
-I am a professional passionate about technology and innovation with a continuous commitment to learning and excellence. I was the winner of the 2nd Entrepreneur Tournament at PUCRS, an experience that laid the foundation for my innovative approach in the field of technology.
+I am a technology and innovation enthusiast with a relentless commitment to continuous learning and excellence. As the winner of the 2nd PUCRS Entrepreneurial Tournament, I laid the groundwork for my innovative approach in the technology field early in my career.
 </p>
 <p align="left">
-My education in Business Administration with an emphasis on IT Management, complemented by a technical diploma in Business Management from QI, provided me with a solid theoretical and practical foundation to tackle complex challenges. Currently, I am further expanding my knowledge with an MBA in Cloud Computing from FIAP, which allows me to stay at the forefront of cloud technologies and digital transformation trends.
+My academic background includes a degree in Business Administration with an emphasis on IT Management, complemented by a technical diploma in Business Management from QI. This robust theoretical and practical foundation enables me to tackle complex challenges effectively. Currently, I am further expanding my knowledge with an MBA in Cloud Computing at FIAP, positioning myself at the forefront of cloud technologies and digital transformation trends.
 </p>
 <p align="left">
-My professional journey is diverse and rich in experiences. Over more than a decade, I have worked on projects ranging from re-hosting to re-architecture for various companies. This has allowed me to accumulate deep experience in technologies such as AWS, GCP, and Azure, as well as develop solutions using .NET Core, C#, SQL Server, IIS, and modern architectures like Microservices, ServiceBus, and Service Broker.
+My professional journey is diverse and rich in experience. Over more than a decade, I have led projects ranging from re-hosting to re-architecture for various companies. This has allowed me to gain deep expertise in technologies such as AWS, GCP, and Azure, and to develop solutions using .NET Core, C#, SQL Server, IIS, as well as modern architectures like Microservices, ServiceBus, and Service Broker.
 </p>
 <p align="left">
-My career path has included prominent roles such as .NET Developer, .NET Software Architect, Development Manager, and Entrepreneur. Each of these roles has allowed me to develop a comprehensive understanding of business needs and the software lifecycle, enabling me to lead effectively and innovatively.
+Throughout my career, I have taken on key roles including .NET Developer, .NET Software Architect, Development Manager, and Entrepreneur. Each of these roles has provided me with a comprehensive understanding of business needs and the software lifecycle, enabling me to lead effectively and drive innovation.
 </p>
 <p align="left">
-At AUTOMATE, where I currently lead products and projects, I have the privilege of working on mission-critical initiatives that include complex migrations and sophisticated integrations. Our product, AUTOMATE, has become an essential pillar for service providers, data centers, and large corporations across LATAM.
+At AUTOMATE, where I have led products and projects, I have the privilege of working on mission-critical initiatives that involve complex migrations and sophisticated integrations. Our product, AUTOMATE, has become an essential pillar for service providers, data centers, and large corporations across LATAM.
 </p>
 <p align="left">
-In addition to my practical achievements, I hold Microsoft certifications in C# .NET and am in the process of obtaining certifications in Azure and Office 365, reinforcing my expertise in Microsoft's cloud technologies.
+In addition to my practical achievements, I hold Microsoft certifications in C# .NET and am in the process of obtaining certifications in Azure and Office 365, further strengthening my expertise in Microsoft cloud technologies.
+</p>
+<p align="left">
+Lately I work as a full stack developer allocated to Canon EMEA via BairesDev.
 </p>
 
 ###
