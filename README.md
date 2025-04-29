@@ -1,11 +1,12 @@
 ## 🔧 Tech Stack & Tools
+<br/>
 
 - 💻 .NET (Core, 8.0), C#, EF Core, ASP.NET
 - ☁️ Azure, AWS, Terraform, Kubernetes, Docker
 - 🧪 TDD, BDD (SpecFlow, xUnit, Moq, Shouldly)
 - 🧠 AI/ML Integration, Edge AI (Coral), MQTT, IoT
 - 🛠️ CI/CD: GitHub Actions, Azure DevOps, Bitbucket Pipelines
-  
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET"  />
   <img width="12" />
@@ -23,21 +24,33 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker"  />
 </div>
+<br/>
 
 ## 🚀 Featured Projects
+<br/>
+
 - [CloudStorageORM](https://github.com/rzavalik/CloudStorageORM) – EF-style abstraction for Azure Blob Storage.
 - [TicTacToe Tournament](https://github.com/rzavalik/TicTacToe.Tournament) – A full SignalR-based tournament platform.
 - [SwarmCluster](https://github.com/rzavalik/swarmcluster) – Lightweight Docker Swarm cluster setup.
+<br/>
 
 ## 🧠 What I'm Learning
+<br/>
+
 - FlutterFlow and Cross-Platform Mobile UI.
 - Advanced FinOps and Cost Optimization in hybrid clouds.
 - CI/CD (AWS, Azure DevOps, GitHub Actions)
+<br/>
 
 ## 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/rodrigozavalik/)
+
+[LinkedIn](https://www.linkedin.com/in/rodrigozavalik/)
+<br/>
+</div>
 
 ## 👩‍💻  About Me
+<br/>
+
 I am a technology and innovation enthusiast with a relentless commitment to continuous learning and excellence. As the winner of the 2nd PUCRS Entrepreneurial Tournament, I laid the groundwork for my innovative approach in the technology field early in my career.
 My academic background includes a degree in Business Administration with an emphasis on IT Management, complemented by a technical diploma in Business Management from QI. This robust theoretical and practical foundation enables me to tackle complex challenges effectively. Currently, I am further expanding my knowledge with an MBA in Cloud Computing at FIAP, positioning myself at the forefront of cloud technologies and digital transformation trends.
 
