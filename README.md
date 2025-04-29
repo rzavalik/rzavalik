@@ -1,9 +1,11 @@
 ## 🔧 Tech Stack & Tools
+
 - 💻 .NET (Core, 8.0), C#, EF Core, ASP.NET
 - ☁️ Azure, AWS, Terraform, Kubernetes, Docker
 - 🧪 TDD, BDD (SpecFlow, xUnit, Moq, Shouldly)
 - 🧠 AI/ML Integration, Edge AI (Coral), MQTT, IoT
 - 🛠️ CI/CD: GitHub Actions, Azure DevOps, Bitbucket Pipelines
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt=".NET"  />
   <img width="12" />
@@ -33,9 +35,7 @@
 - CI/CD (AWS, Azure DevOps, GitHub Actions)
 
 ## 📫 Reach Me
-  <a href="https://x.com/zavalik/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter"  />
-  </a>
+- [LinkedIn](https://www.linkedin.com/in/rodrigozavalik/)
 
 ## 👩‍💻  About Me
 I am a technology and innovation enthusiast with a relentless commitment to continuous learning and excellence. As the winner of the 2nd PUCRS Entrepreneurial Tournament, I laid the groundwork for my innovative approach in the technology field early in my career.
