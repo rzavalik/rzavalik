@@ -31,7 +31,26 @@
 
 - [CloudStorageORM](https://github.com/rzavalik/CloudStorageORM) – EF-style abstraction for Azure Blob Storage.
 - [TicTacToe Tournament](https://github.com/rzavalik/TicTacToe.Tournament) – A full SignalR-based tournament platform.
+- [OpenShift](https://github.com/rzavalik/OpenShift) - OpenShift Sample App: Joke Presentation + Joke Provider
+- [AWS CI/CD](https://github.com/rzavalik/fiap-cicd) - CI/CD using AWS CodeBuild (FIAP | MBA in Cloud Engineering & Architect - AWS Course)
 - [SwarmCluster](https://github.com/rzavalik/swarmcluster) – Lightweight Docker Swarm cluster setup.
+<br/>
+
+## 🎓 Certifications
+<br/>
+
+- GitHub Foundations
+- FinOps Certified Engineer
+- FinOps Certified FOCUS Analyst
+- AZ-400 Designing and Implementing Microsoft DevOps Solutions
+- AZ-305 Designing Microsoft Azure Infrastructure Solutions
+- AZ-204 Developing Solutions for Microsoft Azure
+- AZ-104 Microsoft Azure Administrator
+- MS-900 Microsoft 365 Fundamentals
+- 70-513 TS: Windows Communication Foundation Development with Microsoft .NET Framework 4
+- 70-516 TS: Accessing Data with Microsoft .NET Framework 4
+- 70-515 TS: Web Applications Development with Microsoft .NET Framework 4
+- 70-536 TS: Microsoft .NET Framework - Application Development Foundation
 <br/>
 
 ## 🧠 What I'm Learning
